@@ -19,7 +19,7 @@ It reads a CSV file of retail transactions and generates reports for the custome
 
     java -jar RetailReportGenerator.jar
 
-### Option 2: Using Command Line
+### Option 2: Using VS Code
 
 1. Open the project folder in VS Code
 2. Open **RetailReportGeneratorMain.java**.
